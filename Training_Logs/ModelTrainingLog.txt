@@ -201,3 +201,38 @@
 2020-05-18/19:45:21		Entered the save_model method of the File_Operation class
 2020-05-18/19:45:21		Model File XGBoost1 saved. Exited the save_model method of the Model_Finder class
 2020-05-18/19:45:23		Successful End of Training
+2021-03-25/12:05:29		Start of Training
+2021-03-25/12:05:29		Entered the get_data method of the Data_Getter class
+2021-03-25/12:05:29		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-03-25/12:05:29		Entered the is_null_present method of the Preprocessor class
+2021-03-25/12:05:29		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2021-03-25/12:05:29		Entered the separate_label_feature method of the Preprocessor class
+2021-03-25/12:05:29		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2021-03-25/12:05:29		Entered the elbow_plot method of the KMeansClustering class
+2021-03-25/12:05:29		The optimum number of clusters is: 3 . Exited the elbow_plot method of the KMeansClustering class
+2021-03-25/12:05:29		Entered the create_clusters method of the KMeansClustering class
+2021-03-25/12:05:30		Entered the save_model method of the File_Operation class
+2021-03-25/12:05:30		Model File KMeans saved. Exited the save_model method of the Model_Finder class
+2021-03-25/12:05:30		succesfully created 3clusters. Exited the create_clusters method of the KMeansClustering class
+2021-03-25/12:05:30		Entered the get_best_model method of the Model_Finder class
+2021-03-25/12:05:30		Entered the get_best_params_for_DecisionTreeRegressor method of the Model_Finder class
+2021-03-25/12:05:36		KNN best params: {'criterion': 'friedman_mse', 'max_depth': 8, 'max_features': 'log2', 'min_samples_split': 12, 'splitter': 'random'}. Exited the KNN method of the Model_Finder class
+2021-03-25/12:05:36		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2021-03-25/12:05:45		XGBoost best params: {'learning_rate': 0.1, 'max_depth': 3, 'n_estimators': 200}. Exited the get_best_params_for_xgboost method of the Model_Finder class
+2021-03-25/12:05:45		Entered the save_model method of the File_Operation class
+2021-03-25/12:05:45		Model File XGBoost2 saved. Exited the save_model method of the Model_Finder class
+2021-03-25/12:05:45		Entered the get_best_model method of the Model_Finder class
+2021-03-25/12:05:45		Entered the get_best_params_for_DecisionTreeRegressor method of the Model_Finder class
+2021-03-25/12:05:55		KNN best params: {'criterion': 'mse', 'max_depth': 4, 'max_features': 'auto', 'min_samples_split': 2, 'splitter': 'best'}. Exited the KNN method of the Model_Finder class
+2021-03-25/12:05:55		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2021-03-25/12:06:13		XGBoost best params: {'learning_rate': 0.1, 'max_depth': 3, 'n_estimators': 100}. Exited the get_best_params_for_xgboost method of the Model_Finder class
+2021-03-25/12:06:13		Entered the save_model method of the File_Operation class
+2021-03-25/12:06:13		Model File DecisionTreeReg0 saved. Exited the save_model method of the Model_Finder class
+2021-03-25/12:06:13		Entered the get_best_model method of the Model_Finder class
+2021-03-25/12:06:13		Entered the get_best_params_for_DecisionTreeRegressor method of the Model_Finder class
+2021-03-25/12:06:19		KNN best params: {'criterion': 'mse', 'max_depth': 2, 'max_features': 'auto', 'min_samples_split': 2, 'splitter': 'best'}. Exited the KNN method of the Model_Finder class
+2021-03-25/12:06:19		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2021-03-25/12:06:25		XGBoost best params: {'learning_rate': 0.5, 'max_depth': 3, 'n_estimators': 10}. Exited the get_best_params_for_xgboost method of the Model_Finder class
+2021-03-25/12:06:25		Entered the save_model method of the File_Operation class
+2021-03-25/12:06:25		Model File XGBoost1 saved. Exited the save_model method of the Model_Finder class
+2021-03-25/12:06:25		Successful End of Training

@@ -122,3 +122,75 @@
 2020-05-18/21:12:21		Entered the load_model method of the File_Operation class
 2020-05-18/21:12:21		Model File DecisionTreeReg0 loaded. Exited the load_model method of the Model_Finder class
 2020-05-18/21:12:36		End of Prediction
+2021-03-25/12:14:18		Start of Prediction
+2021-03-25/12:14:18		Entered the get_data method of the Data_Getter class
+2021-03-25/12:14:18		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-03-25/12:14:18		Entered the is_null_present method of the Preprocessor class
+2021-03-25/12:14:18		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2021-03-25/12:14:18		Entered the load_model method of the File_Operation class
+2021-03-25/12:14:18		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2021-03-25/12:14:18		Entered the find_correct_model_file method of the File_Operation class
+2021-03-25/12:14:18		Exited the find_correct_model_file method of the Model_Finder class.
+2021-03-25/12:14:18		Entered the load_model method of the File_Operation class
+2021-03-25/12:14:18		Model File DecisionTreeReg0 loaded. Exited the load_model method of the Model_Finder class
+2021-03-25/12:14:18		End of Prediction
+2021-03-25/12:14:48		Start of Prediction
+2021-03-25/12:14:48		Entered the get_data method of the Data_Getter class
+2021-03-25/12:14:48		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-03-25/12:14:48		Entered the is_null_present method of the Preprocessor class
+2021-03-25/12:14:48		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2021-03-25/12:14:48		Entered the load_model method of the File_Operation class
+2021-03-25/12:14:48		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2021-03-25/12:14:48		Entered the find_correct_model_file method of the File_Operation class
+2021-03-25/12:14:48		Exited the find_correct_model_file method of the Model_Finder class.
+2021-03-25/12:14:48		Entered the load_model method of the File_Operation class
+2021-03-25/12:14:48		Model File DecisionTreeReg0 loaded. Exited the load_model method of the Model_Finder class
+2021-03-25/12:14:48		End of Prediction
+2021-03-25/12:22:57		Start of Prediction
+2021-03-25/12:22:57		Entered the get_data method of the Data_Getter class
+2021-03-25/12:22:57		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-03-25/12:22:57		Entered the is_null_present method of the Preprocessor class
+2021-03-25/12:22:57		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2021-03-25/12:22:57		Entered the load_model method of the File_Operation class
+2021-03-25/12:22:57		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2021-03-25/12:22:57		Entered the find_correct_model_file method of the File_Operation class
+2021-03-25/12:22:57		Exited the find_correct_model_file method of the Model_Finder class.
+2021-03-25/12:22:57		Entered the load_model method of the File_Operation class
+2021-03-25/12:22:57		Model File DecisionTreeReg0 loaded. Exited the load_model method of the Model_Finder class
+2021-03-25/12:22:57		End of Prediction
+2021-03-25/12:22:58		Start of Prediction
+2021-03-25/12:22:58		Entered the get_data method of the Data_Getter class
+2021-03-25/12:22:58		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-03-25/12:22:58		Entered the is_null_present method of the Preprocessor class
+2021-03-25/12:22:58		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2021-03-25/12:22:58		Entered the load_model method of the File_Operation class
+2021-03-25/12:22:58		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2021-03-25/12:22:58		Entered the find_correct_model_file method of the File_Operation class
+2021-03-25/12:22:58		Exited the find_correct_model_file method of the Model_Finder class.
+2021-03-25/12:22:58		Entered the load_model method of the File_Operation class
+2021-03-25/12:22:58		Model File DecisionTreeReg0 loaded. Exited the load_model method of the Model_Finder class
+2021-03-25/12:22:58		End of Prediction
+2021-03-25/12:23:02		Start of Prediction
+2021-03-25/12:23:02		Entered the get_data method of the Data_Getter class
+2021-03-25/12:23:02		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-03-25/12:23:02		Entered the is_null_present method of the Preprocessor class
+2021-03-25/12:23:02		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2021-03-25/12:23:02		Entered the load_model method of the File_Operation class
+2021-03-25/12:23:02		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2021-03-25/12:23:02		Entered the find_correct_model_file method of the File_Operation class
+2021-03-25/12:23:02		Exited the find_correct_model_file method of the Model_Finder class.
+2021-03-25/12:23:02		Entered the load_model method of the File_Operation class
+2021-03-25/12:23:02		Model File DecisionTreeReg0 loaded. Exited the load_model method of the Model_Finder class
+2021-03-25/12:23:02		End of Prediction
+2021-03-25/12:23:02		Start of Prediction
+2021-03-25/12:23:02		Entered the get_data method of the Data_Getter class
+2021-03-25/12:23:02		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-03-25/12:23:02		Entered the is_null_present method of the Preprocessor class
+2021-03-25/12:23:02		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2021-03-25/12:23:02		Entered the load_model method of the File_Operation class
+2021-03-25/12:23:02		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2021-03-25/12:23:02		Entered the find_correct_model_file method of the File_Operation class
+2021-03-25/12:23:02		Exited the find_correct_model_file method of the Model_Finder class.
+2021-03-25/12:23:02		Entered the load_model method of the File_Operation class
+2021-03-25/12:23:02		Model File DecisionTreeReg0 loaded. Exited the load_model method of the Model_Finder class
+2021-03-25/12:23:02		End of Prediction

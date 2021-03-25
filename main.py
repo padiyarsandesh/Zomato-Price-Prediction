@@ -7,6 +7,8 @@ from trainingModel import trainModel
 from training_Validation_Insertion import train_validation
 import flask_monitoringdashboard as dashboard
 from predictFromModel import prediction
+from wsgiref import simple_server
+
 
 os.putenv('LANG', 'en_US.UTF-8')
 os.putenv('LC_ALL', 'en_US.UTF-8')
@@ -58,13 +60,14 @@ def predictRouteClient():
 
 
 
-@app.route("/train", methods=['POST'])
+@app.route("/train", methods=['GET'])
 @cross_origin()
 def trainRouteClient():
 
     try:
-        if request.json['folderPath'] is not None:
-            path = request.json['folderPath']
+        # if request.json['folderPath'] is not None:
+        #     path = request.json['folderPath']
+            path='Training_Batch_Files'
             train_valObj = train_validation(path) #object initialization
 
             train_valObj.train_validation()#calling the training_validation function
@@ -89,4 +92,9 @@ def trainRouteClient():
 
 
 if __name__ == "__main__":
+    host = '0.0.0.0'
+    port = 8000
+    httpd = simple_server.make_server(host, port, app)
+    # print("Serving on %s %d" % (host, port))
+    httpd.serve_forever()
     app.run(debug=True)

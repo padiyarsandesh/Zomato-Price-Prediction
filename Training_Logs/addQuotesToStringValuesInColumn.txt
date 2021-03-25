@@ -22,3 +22,4 @@
 2020-05-17/22:24:33		 zomato_16052019_204900.csv: Quotes added successfully!!
 2020-05-17/22:33:09		 zomato_16052019_204900.csv: Quotes added successfully!!
 2020-05-17/22:36:01		 zomato_16052019_204900.csv: Quotes added successfully!!
+2021-03-25/12:05:25		 zomato_16052019_204900.csv: Quotes added successfully!!

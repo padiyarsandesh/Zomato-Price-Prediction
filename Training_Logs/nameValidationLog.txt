@@ -52,3 +52,5 @@
 2020-05-17/22:33:04		Valid File name!! File moved to GoodRaw Folder :: zomato_16052019_204900.csv
 2020-05-17/22:35:56		Invalid File Name!! File moved to Bad Raw Folder :: zomato_16052019_12345.csv
 2020-05-17/22:35:56		Valid File name!! File moved to GoodRaw Folder :: zomato_16052019_204900.csv
+2021-03-25/12:05:25		Invalid File Name!! File moved to Bad Raw Folder :: zomato_16052019_12345.csv
+2021-03-25/12:05:25		Valid File name!! File moved to GoodRaw Folder :: zomato_16052019_204900.csv
